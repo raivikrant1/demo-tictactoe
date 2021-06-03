@@ -12,5 +12,6 @@
     <color name="blue_500">#03A9F4</color>
     <color name="blue_700">#0288D1</color>
     <color name="blue_900">#01579B</color>
+    <color name="redButton">#E57373</color>
 
 </resources>
